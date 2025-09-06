@@ -1,0 +1,44 @@
+{
+  "stage": "06_expert-review",
+  "when": "2025-09-06T18:40:35.836Z",
+  "payload": {
+    "review": {
+      "issues": [
+        {
+          "locationId": 2,
+          "severity": "high",
+          "suggestion": "应补充‘关键技术驱动未来医院’章节，涵盖AI、物联网、远程医疗、机器人手术等核心技术及其应用场景，否则文档结构与大纲严重脱节。",
+          "rationale": "大纲明确列出sectionId 2为关键技术章节且requiresEvidence=true，但当前文档完全缺失该部分，导致技术支撑逻辑断裂，削弱论证完整性。"
+        },
+        {
+          "locationId": 4,
+          "severity": "medium",
+          "suggestion": "需增加‘医生与医疗团队的角色转变’章节，说明AI如何重塑医护工作流与职业定位，避免未来医院叙事片面聚焦患者端。",
+          "rationale": "大纲sectionId 4强调医护角色转型且需证据支持，当前文档未覆盖此维度，易使读者误以为技术仅服务患者而忽视医护适应性变革。"
+        },
+        {
+          "locationId": 6,
+          "severity": "medium",
+          "suggestion": "应补充‘展望：我们何时能走进未来医院？’章节，提供技术落地时间表、试点案例与公众参与路径，增强现实指导性。",
+          "rationale": "大纲sectionId 6为重要收尾章节，缺失将导致文档止于伦理挑战而缺乏建设性出路，削弱大众对医疗变革的参与感与信心。"
+        },
+        {
+          "locationId": "引言",
+          "severity": "low",
+          "suggestion": "在引言段末补充一句过渡句，如‘下文将从技术驱动、患者体验、医护转型、伦理挑战及发展展望五个维度展开’，以预告全文结构。",
+          "rationale": "当前引言未提示后续章节逻辑，读者缺乏阅读路线图，影响信息吸收效率。"
+        },
+        {
+          "locationId": "挑战与伦理考量",
+          "severity": "low",
+          "suggestion": "在‘数据隐私’段落中，将占位符{cite:placeholder_1}替换为真实案例或研究来源，即使暂用‘[某机构, 2023]’也优于占位符。",
+          "rationale": "占位符破坏文档可信度，尤其在requiresEvidence=true的章节，应优先填充可验证信息或标注‘待补充’以示透明。"
+        }
+      ]
+    },
+    "prompt": "你是领域专家评审，多轮提出问题与修改建议（JSON：issues[{locationId,severity,suggestion,rationale}]}），聚焦准确性、逻辑性、结构。",
+    "providers": [
+      "qwen"
+    ]
+  }
+}
