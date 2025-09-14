@@ -1,0 +1,13 @@
+{
+  "stage": "08_final-merge",
+  "when": "2025-09-14T11:06:54.795Z",
+  "payload": {
+    "final": {
+      "markdown": "[object Object]"
+    },
+    "prompt": "你是终稿整合助手。综合评审与事实核验结果，对文稿进行最终修订，输出 Markdown 终稿。",
+    "providers": [
+      "qwen"
+    ]
+  }
+}
