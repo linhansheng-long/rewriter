@@ -1,0 +1,16 @@
+{
+  "stage": "01_intent",
+  "when": "2025-09-14T17:47:52.674Z",
+  "payload": {
+    "intent": {
+      "topic": "梦幻婚礼",
+      "audience": "新婚",
+      "style": "大众"
+    },
+    "files": [],
+    "prompt": "测试意图提示词-持久化",
+    "providers": [
+      "kimi"
+    ]
+  }
+}
