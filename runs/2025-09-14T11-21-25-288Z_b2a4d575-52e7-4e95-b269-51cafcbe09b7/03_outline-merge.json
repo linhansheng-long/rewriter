@@ -1,0 +1,55 @@
+{
+  "stage": "03_outline-merge",
+  "when": "2025-09-14T11:21:26.317Z",
+  "payload": {
+    "outline": {
+      "title": "奇幻医疗",
+      "sections": [
+        {
+          "id": "ac179793-ce5a-4754-b72a-10f2bd223696",
+          "title": "部分 1",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        },
+        {
+          "id": "11009fee-b13d-4e84-8519-c7dd32d9caf7",
+          "title": "部分 2",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        },
+        {
+          "id": "56b720ed-d623-4bf9-8ea2-0ebc0d02b062",
+          "title": "部分 3",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        },
+        {
+          "id": "569952b9-c5f5-4d4b-88dd-97114b76dbd6",
+          "title": "部分 4",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        },
+        {
+          "id": "413e6057-65ee-4ff2-a21b-6ca710844a43",
+          "title": "部分 5",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        }
+      ]
+    },
+    "prompt": "你是大纲合并器。输入多份大纲，去重合并，保持层次清晰与覆盖全面，输出JSON同前，最多 8 个章节。",
+    "providers": [
+      "qwen"
+    ]
+  }
+}
