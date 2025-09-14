@@ -1,0 +1,13 @@
+{
+  "stage": "05_merge-assembly",
+  "when": "2025-09-14T11:06:53.584Z",
+  "payload": {
+    "doc": {
+      "markdown": "[object Object]"
+    },
+    "prompt": "你是编排与风格统一助手。将多个章节合并为完整 Markdown，统一术语、衔接段落，自动生成合理标题与目录（可选）。",
+    "providers": [
+      "qwen"
+    ]
+  }
+}
