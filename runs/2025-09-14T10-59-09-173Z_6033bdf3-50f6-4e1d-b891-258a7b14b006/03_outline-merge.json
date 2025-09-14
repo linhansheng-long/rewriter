@@ -1,0 +1,13 @@
+{
+  "stage": "03_outline-merge",
+  "when": "2025-09-14T10:59:09.795Z",
+  "payload": {
+    "outline": {
+      "placeholder": true
+    },
+    "prompt": "你是大纲合并器。输入多份大纲，去重合并，保持层次清晰与覆盖全面，输出JSON同前，最多 8 个章节。",
+    "providers": [
+      "qwen"
+    ]
+  }
+}
