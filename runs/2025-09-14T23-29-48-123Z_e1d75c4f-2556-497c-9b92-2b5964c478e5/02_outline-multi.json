@@ -1,0 +1,149 @@
+{
+  "stage": "02_outline-multi",
+  "when": "2025-09-14T23:30:08.466Z",
+  "payload": {
+    "outlines": [
+      {
+        "title": "测试图片生成",
+        "sections": [
+          {
+            "id": "04f6460a-efe3-4f88-bacc-59d4f2d21d3b",
+            "title": "部分 1",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "6ec961a2-90a0-4e85-9d44-c5e1e8de7411",
+            "title": "部分 2",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "b008db53-68a2-4ac6-8a84-de49156eb9e1",
+            "title": "部分 3",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "bf2c7d8e-7a14-4325-93dd-c324f15595a0",
+            "title": "部分 4",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "9e041ff1-84b5-47d4-a1f1-de439011588d",
+            "title": "部分 5",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "测试图片生成",
+        "sections": [
+          {
+            "id": "d62d27eb-9529-45f0-ae45-9528e151a683",
+            "title": "部分 1",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "c7c23e33-0470-45d0-bfb5-d1fe55116375",
+            "title": "部分 2",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "7aa73848-ae27-4793-a995-7a8557c9164c",
+            "title": "部分 3",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "2b5e4a0a-63cf-4152-b36e-c1a6555bf8eb",
+            "title": "部分 4",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "c7681b7c-ec3f-4eff-a47a-7af80261ef3b",
+            "title": "部分 5",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "测试图片生成",
+        "sections": [
+          {
+            "id": "a2ca9c7d-bed4-40b1-b24f-9d13cda0e6ca",
+            "title": "部分 1",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "332a543e-7552-44da-80f4-65931e0cee4d",
+            "title": "部分 2",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "28402c88-e367-43ab-ba94-92f170830014",
+            "title": "部分 3",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "0aef8058-b1f2-4b66-b545-5ef93cb175b2",
+            "title": "部分 4",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "4c206cbe-315b-466a-9502-7d739db7066e",
+            "title": "部分 5",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          }
+        ]
+      }
+    ],
+    "prompt": "你是写作大纲专家。请针对“{topic}”生成结构化大纲，考虑受众“{audience}”、风格“{style}”。输出JSON：{ title, sections: [{ id, title, bullets[], requiresEvidence? }] }。",
+    "providers": [
+      "kimi",
+      "qwen",
+      "glm"
+    ]
+  }
+}
