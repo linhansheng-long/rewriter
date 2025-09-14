@@ -1,0 +1,33 @@
+{
+  "stage": "04_write-sections",
+  "when": "2025-09-14T11:22:04.881Z",
+  "payload": {
+    "drafts": [
+      {
+        "sectionId": "918ec4c6-f23f-4508-a037-f19a65010607",
+        "markdown": "# 部分 1\n\n这里是占位内容。"
+      },
+      {
+        "sectionId": "d10d8994-ba98-401f-89e1-57db20fd952b",
+        "markdown": "# 部分 2\n\n这里是占位内容。"
+      },
+      {
+        "sectionId": "a519683b-4281-4ab8-8066-661bf9a9a669",
+        "markdown": "# 部分 3\n\n这里是占位内容。"
+      },
+      {
+        "sectionId": "0997f4ad-2ae7-40e5-acbe-d6c4839dcef4",
+        "markdown": "# 部分 4\n\n这里是占位内容。"
+      },
+      {
+        "sectionId": "e5c97629-1cd6-44ca-8d77-405a149ee864",
+        "markdown": "# 部分 5\n\n这里是占位内容。"
+      }
+    ],
+    "prompt": "你是章节写手。针对给定大纲章节，生成对应 Markdown 内容（中文），保持一致风格“{style}”，引用必要事实并标注占位引用。",
+    "providers": [
+      "qwen",
+      "kimi"
+    ]
+  }
+}
