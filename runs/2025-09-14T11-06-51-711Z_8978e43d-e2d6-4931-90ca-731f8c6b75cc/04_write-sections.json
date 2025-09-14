@@ -1,0 +1,33 @@
+{
+  "stage": "04_write-sections",
+  "when": "2025-09-14T11:06:53.222Z",
+  "payload": {
+    "drafts": [
+      {
+        "sectionId": "be49192e-5e98-4963-ae9f-931ca1053e7c",
+        "markdown": "[object Object]"
+      },
+      {
+        "sectionId": "19c0aea8-7f89-4463-bd83-ed865a4d3638",
+        "markdown": "[object Object]"
+      },
+      {
+        "sectionId": "4c53f38e-8044-428d-865f-ddcd3084de43",
+        "markdown": "[object Object]"
+      },
+      {
+        "sectionId": "bb37b223-432d-42bb-86e8-b6cca5769412",
+        "markdown": "[object Object]"
+      },
+      {
+        "sectionId": "4f97ceb3-a5ef-4767-9df6-7f561fa506b0",
+        "markdown": "[object Object]"
+      }
+    ],
+    "prompt": "你是章节写手。针对给定大纲章节，生成对应 Markdown 内容（中文），保持一致风格“{style}”，引用必要事实并标注占位引用。",
+    "providers": [
+      "qwen",
+      "kimi"
+    ]
+  }
+}
