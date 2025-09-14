@@ -1,0 +1,149 @@
+{
+  "stage": "02_outline-multi",
+  "when": "2025-09-14T15:00:17.943Z",
+  "payload": {
+    "outlines": [
+      {
+        "title": "奇幻医疗",
+        "sections": [
+          {
+            "id": "adb0e015-6d2b-49bd-95d8-0c80b03cd1df",
+            "title": "部分 1",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "4e469402-db4f-4e87-9854-80e3f20be486",
+            "title": "部分 2",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "b3e8a1f6-63e7-4b9e-b66a-7c183f7892a9",
+            "title": "部分 3",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "79cecc20-0a8d-46dd-b508-547e154e997e",
+            "title": "部分 4",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "b1236e68-149d-435e-b7e6-729279d3d828",
+            "title": "部分 5",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "奇幻医疗",
+        "sections": [
+          {
+            "id": "81dcd781-c75a-4294-90c7-7874b8ecc245",
+            "title": "部分 1",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "4f63f16c-7184-4d39-ba9c-4c4fa30ab1e6",
+            "title": "部分 2",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "4b08d394-b731-44d4-aa9a-f0dfaf7636fb",
+            "title": "部分 3",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "0e6d5ac6-25fe-426f-9003-104b84d0fe3e",
+            "title": "部分 4",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "c7b32afe-61d3-4e95-93ed-24860c526013",
+            "title": "部分 5",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "奇幻医疗",
+        "sections": [
+          {
+            "id": "395640e4-ef41-4291-8b81-24bfbb67c550",
+            "title": "部分 1",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "1c964c43-39ed-41ff-9fe8-83b050ae32a4",
+            "title": "部分 2",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "3ab4a70b-6bd2-49f9-b139-54d6ac8338c6",
+            "title": "部分 3",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "88249835-79f9-4fcb-a8c6-3a565bc4cadc",
+            "title": "部分 4",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "1a4a4446-234a-4d20-8f12-57b064b53c3f",
+            "title": "部分 5",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          }
+        ]
+      }
+    ],
+    "prompt": "你是写作大纲专家。请针对“{topic}”生成结构化大纲，考虑受众“{audience}”、风格“{style}”。输出JSON：{ title, sections: [{ id, title, bullets[], requiresEvidence? }] }。",
+    "providers": [
+      "kimi",
+      "qwen",
+      "glm"
+    ]
+  }
+}
