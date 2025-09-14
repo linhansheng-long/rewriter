@@ -1,0 +1,19 @@
+{
+  "stage": "02_outline-multi",
+  "when": "2025-09-14T11:00:25.943Z",
+  "payload": {
+    "outlines": [
+      {
+        "placeholder": true
+      },
+      {
+        "placeholder": true
+      }
+    ],
+    "prompt": "你是写作大纲专家。请针对“{topic}”生成结构化大纲，考虑受众“{audience}”、风格“{style}”。输出JSON：{ title, sections: [{ id, title, bullets[], requiresEvidence? }] }。",
+    "providers": [
+      "kimi",
+      "qwen"
+    ]
+  }
+}
