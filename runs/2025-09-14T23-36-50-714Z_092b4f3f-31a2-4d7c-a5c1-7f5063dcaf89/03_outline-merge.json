@@ -1,0 +1,55 @@
+{
+  "stage": "03_outline-merge",
+  "when": "2025-09-14T23:37:18.758Z",
+  "payload": {
+    "outline": {
+      "title": "测试图片生成-3",
+      "sections": [
+        {
+          "id": "d226ee8c-9c4b-42d9-bd20-3e4d50b1ca67",
+          "title": "部分 1",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        },
+        {
+          "id": "fb17996d-4d43-43b5-b41a-28af18239948",
+          "title": "部分 2",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        },
+        {
+          "id": "b7113119-8a40-44b4-9166-cb8bcc3f8cdb",
+          "title": "部分 3",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        },
+        {
+          "id": "14e1e239-442e-4c73-be0b-6595cf165c4f",
+          "title": "部分 4",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        },
+        {
+          "id": "bf9db3b3-b991-4edd-a4fd-3c8fbeea864a",
+          "title": "部分 5",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        }
+      ]
+    },
+    "prompt": "你是大纲合并器。输入多份大纲，去重合并，保持层次清晰与覆盖全面，输出JSON同前，最多 8 个章节。",
+    "providers": [
+      "qwen"
+    ]
+  }
+}
