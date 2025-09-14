@@ -1,0 +1,38 @@
+{
+  "stage": "04c_image-generation",
+  "when": "2025-09-14T19:00:41.373Z",
+  "payload": {
+    "images": [
+      {
+        "sectionId": "98e78380-9d4f-4fa1-887a-1d9b5e62fe57",
+        "title": "部分 1",
+        "prompt": "为主题“梦幻婚礼”，章节“部分 1”生成一幅配图：主体清晰、场景贴合内容；风格：专业；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "data:image/svg+xml;utf8,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22800%22%20height%3D%22500%22%3E%3Cdefs%3E%3Cstyle%3E%40import%20url('https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DNoto%2BSans')%3B%3C%2Fstyle%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23e5e7eb%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-size%3D%2228%22%20fill%3D%22%23111827%22%3E%E9%83%A8%E5%88%86%201%3C%2Ftext%3E%3C%2Fsvg%3E"
+      },
+      {
+        "sectionId": "9e423b96-831d-4a50-af7c-aff016e13275",
+        "title": "部分 2",
+        "prompt": "为主题“梦幻婚礼”，章节“部分 2”生成一幅配图：主体清晰、场景贴合内容；风格：专业；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "data:image/svg+xml;utf8,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22800%22%20height%3D%22500%22%3E%3Cdefs%3E%3Cstyle%3E%40import%20url('https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DNoto%2BSans')%3B%3C%2Fstyle%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23e5e7eb%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-size%3D%2228%22%20fill%3D%22%23111827%22%3E%E9%83%A8%E5%88%86%202%3C%2Ftext%3E%3C%2Fsvg%3E"
+      },
+      {
+        "sectionId": "620060d2-562b-4f70-8af9-7eb36aafd446",
+        "title": "部分 3",
+        "prompt": "为主题“梦幻婚礼”，章节“部分 3”生成一幅配图：主体清晰、场景贴合内容；风格：专业；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "data:image/svg+xml;utf8,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22800%22%20height%3D%22500%22%3E%3Cdefs%3E%3Cstyle%3E%40import%20url('https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DNoto%2BSans')%3B%3C%2Fstyle%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23e5e7eb%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-size%3D%2228%22%20fill%3D%22%23111827%22%3E%E9%83%A8%E5%88%86%203%3C%2Ftext%3E%3C%2Fsvg%3E"
+      },
+      {
+        "sectionId": "c60dbbd1-5e95-4143-a8fa-eb298585089e",
+        "title": "部分 4",
+        "prompt": "为主题“梦幻婚礼”，章节“部分 4”生成一幅配图：主体清晰、场景贴合内容；风格：专业；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "data:image/svg+xml;utf8,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22800%22%20height%3D%22500%22%3E%3Cdefs%3E%3Cstyle%3E%40import%20url('https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DNoto%2BSans')%3B%3C%2Fstyle%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23e5e7eb%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-size%3D%2228%22%20fill%3D%22%23111827%22%3E%E9%83%A8%E5%88%86%204%3C%2Ftext%3E%3C%2Fsvg%3E"
+      },
+      {
+        "sectionId": "9cc73955-1216-4a2c-8791-a7d0141d6b15",
+        "title": "部分 5",
+        "prompt": "为主题“梦幻婚礼”，章节“部分 5”生成一幅配图：主体清晰、场景贴合内容；风格：专业；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "data:image/svg+xml;utf8,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22800%22%20height%3D%22500%22%3E%3Cdefs%3E%3Cstyle%3E%40import%20url('https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DNoto%2BSans')%3B%3C%2Fstyle%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23e5e7eb%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-size%3D%2228%22%20fill%3D%22%23111827%22%3E%E9%83%A8%E5%88%86%205%3C%2Ftext%3E%3C%2Fsvg%3E"
+      }
+    ]
+  }
+}
