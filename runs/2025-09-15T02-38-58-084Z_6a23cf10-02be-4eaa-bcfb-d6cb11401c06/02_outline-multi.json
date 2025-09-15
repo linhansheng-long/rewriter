@@ -1,0 +1,149 @@
+{
+  "stage": "02_outline-multi",
+  "when": "2025-09-15T02:39:40.479Z",
+  "payload": {
+    "outlines": [
+      {
+        "title": "婚礼梦幻",
+        "sections": [
+          {
+            "id": "d9a852d1-9ead-4e1d-a4a8-0701f45683fe",
+            "title": "部分 1",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "b11a7a69-08fc-47cc-b8d9-e7b4b4af5320",
+            "title": "部分 2",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "f6d65427-a00e-4d8b-8f97-be7283cfd89a",
+            "title": "部分 3",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "887fa0c7-7497-43eb-9eed-d77790f8a83e",
+            "title": "部分 4",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "9fd1e9da-035e-4602-be45-601cabb55d63",
+            "title": "部分 5",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "婚礼梦幻",
+        "sections": [
+          {
+            "id": "0b7ac669-1137-45a5-8116-de78537051fc",
+            "title": "部分 1",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "bfda9aa8-3f6e-4a73-ba9d-84609c5c991d",
+            "title": "部分 2",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "c3a6ab60-7247-4072-a98d-dd6afe493061",
+            "title": "部分 3",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "794e3069-39be-480f-bdd7-b59ff87a2587",
+            "title": "部分 4",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "03f3e20b-47d8-4dc5-93a5-404c57dc71d5",
+            "title": "部分 5",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "婚礼梦幻",
+        "sections": [
+          {
+            "id": "caf2234c-6fac-4d92-8781-f6fbeca7da1d",
+            "title": "部分 1",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "9d1f9c50-8845-44a5-8eeb-55fdfd953eaf",
+            "title": "部分 2",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "7efe49ae-991f-44a8-9ace-6adecd8b29b8",
+            "title": "部分 3",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "809c4229-a3d4-4f2e-83c9-05f8b0717f59",
+            "title": "部分 4",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "d5c4aadf-115d-4e73-b5ad-2bc8d71447fe",
+            "title": "部分 5",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          }
+        ]
+      }
+    ],
+    "prompt": "你是写作大纲专家。请针对“{topic}”生成结构化大纲，考虑受众“{audience}”、风格“{style}”。输出JSON：{ title, sections: [{ id, title, bullets[], requiresEvidence? }] }。",
+    "providers": [
+      "kimi",
+      "qwen",
+      "glm"
+    ]
+  }
+}
