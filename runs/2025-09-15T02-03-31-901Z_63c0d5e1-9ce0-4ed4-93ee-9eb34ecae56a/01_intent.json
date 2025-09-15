@@ -1,0 +1,20 @@
+{
+  "stage": "01_intent",
+  "when": "2025-09-15T02:03:31.902Z",
+  "payload": {
+    "intent": {
+      "topic": "演示“图片生成”阶段不回退占位图",
+      "audience": "开发者",
+      "style": "简短",
+      "goals": [
+        "包含配图"
+      ],
+      "constraints": []
+    },
+    "files": [],
+    "prompt": "测试意图提示词-持久化",
+    "providers": [
+      "kimi"
+    ]
+  }
+}
