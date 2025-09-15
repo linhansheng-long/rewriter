@@ -1,0 +1,40 @@
+{
+  "stage": "04c_image-generation",
+  "when": "2025-09-15T04:07:07.831Z",
+  "payload": {
+    "images": [
+      {
+        "sectionId": "c1f950c8-94b3-45ec-a65d-b7e42c4bed21",
+        "title": "部分 1",
+        "prompt": "为主题“梦幻婚礼”，章节“部分 1”生成一幅配图：主体清晰、场景贴合内容；风格：专业；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "https://p3-aiop-sign.byteimg.com/tos-cn-i-vuqhorh59i/20250915120548B879CDD50F6381227672-6165-0~tplv-vuqhorh59i-image-v1.image?rk3s=7f9e702d&x-expires=1757995548&x-signature=KQWxCLagucjHc2kW%2FiXfDKBQ7Lo%3D"
+      },
+      {
+        "sectionId": "e3008057-7930-431e-912e-a5b6e16995c6",
+        "title": "部分 2",
+        "prompt": "为主题“梦幻婚礼”，章节“部分 2”生成一幅配图：主体清晰、场景贴合内容；风格：专业；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "https://p26-aiop-sign.byteimg.com/tos-cn-i-vuqhorh59i/20250915120608B879CDD50F63812280A6-2932-0~tplv-vuqhorh59i-image-v1.image?rk3s=7f9e702d&x-expires=1757995568&x-signature=v9F4as2BF1J5E9ZhjwozmutOLdU%3D"
+      },
+      {
+        "sectionId": "3e0425d2-c668-4e7b-a9ae-9130ea906d0d",
+        "title": "部分 3",
+        "prompt": "为主题“梦幻婚礼”，章节“部分 3”生成一幅配图：主体清晰、场景贴合内容；风格：专业；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "https://p26-aiop-sign.byteimg.com/tos-cn-i-vuqhorh59i/20250915120626B879CDD50F63812289DB-5238-0~tplv-vuqhorh59i-image-v1.image?rk3s=7f9e702d&x-expires=1757995587&x-signature=ELNt16ExZHeZDwDq%2B5gEzXxKsCY%3D"
+      },
+      {
+        "sectionId": "ded39d69-480c-445c-9b6c-af9362b95348",
+        "title": "部分 4",
+        "prompt": "为主题“梦幻婚礼”，章节“部分 4”生成一幅配图：主体清晰、场景贴合内容；风格：专业；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "https://p26-aiop-sign.byteimg.com/tos-cn-i-vuqhorh59i/20250915120646B879CDD50F63812294C1-1249-0~tplv-vuqhorh59i-image-v1.image?rk3s=7f9e702d&x-expires=1757995606&x-signature=ePayt28AwYUrvv17rGZzMrxFv80%3D"
+      },
+      {
+        "sectionId": "9da0a6b9-fe46-4ff0-ae88-15adcce5b7bc",
+        "title": "部分 5",
+        "prompt": "为主题“梦幻婚礼”，章节“部分 5”生成一幅配图：主体清晰、场景贴合内容；风格：专业；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "https://p3-aiop-sign.byteimg.com/tos-cn-i-vuqhorh59i/20250915120707B879CDD50F6381229ECF-3763-0~tplv-vuqhorh59i-image-v1.image?rk3s=7f9e702d&x-expires=1757995628&x-signature=DPgekYE%2FExZsW2c8LtcdIrTpAIg%3D"
+      }
+    ],
+    "provider": "jimeng",
+    "info": "使用 jimeng（凭据来自设置页，串行并发=1）"
+  }
+}
