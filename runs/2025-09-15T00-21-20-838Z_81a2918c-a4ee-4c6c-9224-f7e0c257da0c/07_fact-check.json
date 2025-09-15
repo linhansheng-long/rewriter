@@ -1,0 +1,11 @@
+{
+  "stage": "07_fact-check",
+  "when": "2025-09-15T00:23:29.568Z",
+  "payload": {
+    "placeholder": true,
+    "prompt": "你是联网事实核验助手。针对关键陈述，使用检索进行逐条验证，返回证据（JSON：sources[{url,snippet,confidence}]}）。",
+    "providers": [
+      "kimi"
+    ]
+  }
+}
