@@ -1,0 +1,55 @@
+{
+  "stage": "03_outline-merge",
+  "when": "2025-09-15T00:01:21.394Z",
+  "payload": {
+    "outline": {
+      "title": "测试就绪",
+      "sections": [
+        {
+          "id": "284fae64-f0f8-4e6b-bdf3-221a96acfd32",
+          "title": "部分 1",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        },
+        {
+          "id": "e89d77a7-0b3a-448d-8de3-115cc7d36380",
+          "title": "部分 2",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        },
+        {
+          "id": "2d268b33-edae-4843-b983-b81b25efe664",
+          "title": "部分 3",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        },
+        {
+          "id": "30435f53-4705-4b29-bc09-fc9101696f8c",
+          "title": "部分 4",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        },
+        {
+          "id": "31dea254-2657-463c-9b17-b5e5dc002ad2",
+          "title": "部分 5",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        }
+      ]
+    },
+    "prompt": "你是大纲合并器。输入多份大纲，去重合并，保持层次清晰与覆盖全面，输出JSON同前，最多 8 个章节。",
+    "providers": [
+      "qwen"
+    ]
+  }
+}
