@@ -1,0 +1,40 @@
+{
+  "stage": "04c_image-generation",
+  "when": "2025-09-15T00:01:35.234Z",
+  "payload": {
+    "images": [
+      {
+        "sectionId": "284fae64-f0f8-4e6b-bdf3-221a96acfd32",
+        "title": "部分 1",
+        "prompt": "为主题“测试就绪”，章节“部分 1”生成一幅配图：主体清晰、场景贴合内容；风格：写实/插画皆可；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "data:image/svg+xml;utf8,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22800%22%20height%3D%22500%22%3E%3Cdefs%3E%3Cstyle%3E%40import%20url('https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DNoto%2BSans')%3B%3C%2Fstyle%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23e5e7eb%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-size%3D%2228%22%20fill%3D%22%23111827%22%3E%E9%83%A8%E5%88%86%201%3C%2Ftext%3E%3C%2Fsvg%3E"
+      },
+      {
+        "sectionId": "e89d77a7-0b3a-448d-8de3-115cc7d36380",
+        "title": "部分 2",
+        "prompt": "为主题“测试就绪”，章节“部分 2”生成一幅配图：主体清晰、场景贴合内容；风格：写实/插画皆可；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "data:image/svg+xml;utf8,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22800%22%20height%3D%22500%22%3E%3Cdefs%3E%3Cstyle%3E%40import%20url('https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DNoto%2BSans')%3B%3C%2Fstyle%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23e5e7eb%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-size%3D%2228%22%20fill%3D%22%23111827%22%3E%E9%83%A8%E5%88%86%202%3C%2Ftext%3E%3C%2Fsvg%3E"
+      },
+      {
+        "sectionId": "2d268b33-edae-4843-b983-b81b25efe664",
+        "title": "部分 3",
+        "prompt": "为主题“测试就绪”，章节“部分 3”生成一幅配图：主体清晰、场景贴合内容；风格：写实/插画皆可；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "data:image/svg+xml;utf8,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22800%22%20height%3D%22500%22%3E%3Cdefs%3E%3Cstyle%3E%40import%20url('https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DNoto%2BSans')%3B%3C%2Fstyle%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23e5e7eb%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-size%3D%2228%22%20fill%3D%22%23111827%22%3E%E9%83%A8%E5%88%86%203%3C%2Ftext%3E%3C%2Fsvg%3E"
+      },
+      {
+        "sectionId": "30435f53-4705-4b29-bc09-fc9101696f8c",
+        "title": "部分 4",
+        "prompt": "为主题“测试就绪”，章节“部分 4”生成一幅配图：主体清晰、场景贴合内容；风格：写实/插画皆可；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "data:image/svg+xml;utf8,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22800%22%20height%3D%22500%22%3E%3Cdefs%3E%3Cstyle%3E%40import%20url('https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DNoto%2BSans')%3B%3C%2Fstyle%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23e5e7eb%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-size%3D%2228%22%20fill%3D%22%23111827%22%3E%E9%83%A8%E5%88%86%204%3C%2Ftext%3E%3C%2Fsvg%3E"
+      },
+      {
+        "sectionId": "31dea254-2657-463c-9b17-b5e5dc002ad2",
+        "title": "部分 5",
+        "prompt": "为主题“测试就绪”，章节“部分 5”生成一幅配图：主体清晰、场景贴合内容；风格：写实/插画皆可；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "data:image/svg+xml;utf8,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22800%22%20height%3D%22500%22%3E%3Cdefs%3E%3Cstyle%3E%40import%20url('https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DNoto%2BSans')%3B%3C%2Fstyle%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23e5e7eb%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-size%3D%2228%22%20fill%3D%22%23111827%22%3E%E9%83%A8%E5%88%86%205%3C%2Ftext%3E%3C%2Fsvg%3E"
+      }
+    ],
+    "provider": "placeholder",
+    "info": "image-generation 未选择 jimeng，使用占位图"
+  }
+}
