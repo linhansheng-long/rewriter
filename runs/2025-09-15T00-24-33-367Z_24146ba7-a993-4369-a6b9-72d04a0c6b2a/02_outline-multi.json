@@ -1,0 +1,149 @@
+{
+  "stage": "02_outline-multi",
+  "when": "2025-09-15T00:24:53.511Z",
+  "payload": {
+    "outlines": [
+      {
+        "title": "测试就绪",
+        "sections": [
+          {
+            "id": "f5824538-de7b-484d-9acb-a078e9246163",
+            "title": "部分 1",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "c577d031-a289-4b6e-823e-5c25fd6b214a",
+            "title": "部分 2",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "4ef80b1b-876c-4e57-85d8-d92b256d0a83",
+            "title": "部分 3",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "76420dd7-72eb-4278-bd9e-bc24f50d18be",
+            "title": "部分 4",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "91bcb74f-86bb-42c0-9bdb-4893a61fb409",
+            "title": "部分 5",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "测试就绪",
+        "sections": [
+          {
+            "id": "4a664c50-eb6d-4735-98f3-985404e6436f",
+            "title": "部分 1",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "9413c984-be9c-4e30-8f7d-ed35421522ae",
+            "title": "部分 2",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "36d09dab-a87f-49dc-b8bb-a6212fd1816a",
+            "title": "部分 3",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "409795ee-0610-40d2-9834-52c4561a8cb9",
+            "title": "部分 4",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "88ff4602-aa1e-4980-862b-92e6308d864e",
+            "title": "部分 5",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "测试就绪",
+        "sections": [
+          {
+            "id": "870f64fe-5043-4ccc-862e-47a9ed124cff",
+            "title": "部分 1",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "082e99c1-f7f3-4830-b714-47d5a224f2fa",
+            "title": "部分 2",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "b1704206-d66f-4816-91b2-986710982236",
+            "title": "部分 3",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "22568e2e-be4e-4d0f-8843-0c224c0b0508",
+            "title": "部分 4",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "3c9fdcf5-8e67-4545-bbd5-7042db665c45",
+            "title": "部分 5",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          }
+        ]
+      }
+    ],
+    "prompt": "你是写作大纲专家。请针对“{topic}”生成结构化大纲，考虑受众“{audience}”、风格“{style}”。输出JSON：{ title, sections: [{ id, title, bullets[], requiresEvidence? }] }。",
+    "providers": [
+      "kimi",
+      "qwen",
+      "glm"
+    ]
+  }
+}
