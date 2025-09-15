@@ -1,0 +1,16 @@
+{
+  "stage": "01_intent",
+  "when": "2025-09-15T03:17:01.194Z",
+  "payload": {
+    "intent": {
+      "topic": "测试图片生成",
+      "audience": "读者",
+      "style": "说明文"
+    },
+    "files": [],
+    "prompt": "测试意图提示词-持久化",
+    "providers": [
+      "kimi"
+    ]
+  }
+}
