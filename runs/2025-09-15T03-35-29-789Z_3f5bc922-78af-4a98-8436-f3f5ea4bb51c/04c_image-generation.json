@@ -1,0 +1,40 @@
+{
+  "stage": "04c_image-generation",
+  "when": "2025-09-15T03:37:52.822Z",
+  "payload": {
+    "images": [
+      {
+        "sectionId": "81fa181e-4f7d-4cd7-a286-5ff62fd1efa9",
+        "title": "部分 1",
+        "prompt": "为主题“婚礼流程预览”，章节“部分 1”生成一幅配图：主体清晰、场景贴合内容；风格：简洁实用；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "https://p9-aiop-sign.byteimg.com/tos-cn-i-vuqhorh59i/202509151136428AA628FEC7BB4A18CC0E-8879-0~tplv-vuqhorh59i-image-v1.image?rk3s=7f9e702d&x-expires=1757993802&x-signature=P7%2B295qQMkC9FceKlmbqy99%2Fgyc%3D"
+      },
+      {
+        "sectionId": "0ac20487-dd28-4233-a55e-32219b59a055",
+        "title": "部分 2",
+        "prompt": "为主题“婚礼流程预览”，章节“部分 2”生成一幅配图：主体清晰、场景贴合内容；风格：简洁实用；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "https://p3-aiop-sign.byteimg.com/tos-cn-i-vuqhorh59i/20250915113659EF0236F281448A15844B-9062-0~tplv-vuqhorh59i-image-v1.image?rk3s=7f9e702d&x-expires=1757993819&x-signature=r6TOPLwr7t%2BPdg8oRfOK5GPZqoE%3D"
+      },
+      {
+        "sectionId": "042b8645-f77a-4593-aa93-85673ec7c680",
+        "title": "部分 3",
+        "prompt": "为主题“婚礼流程预览”，章节“部分 3”生成一幅配图：主体清晰、场景贴合内容；风格：简洁实用；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "https://p3-aiop-sign.byteimg.com/tos-cn-i-vuqhorh59i/20250915113719EF0236F281448A158CE3-4015-0~tplv-vuqhorh59i-image-v1.image?rk3s=7f9e702d&x-expires=1757993839&x-signature=%2F%2FaJm2TKqshsk%2FZTYwRqnF5xNXU%3D"
+      },
+      {
+        "sectionId": "9b3ed7d2-c82b-4e7e-a64e-c76c502f4099",
+        "title": "部分 4",
+        "prompt": "为主题“婚礼流程预览”，章节“部分 4”生成一幅配图：主体清晰、场景贴合内容；风格：简洁实用；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "https://p9-aiop-sign.byteimg.com/tos-cn-i-vuqhorh59i/20250915113736EF0236F281448A159355-7627-0~tplv-vuqhorh59i-image-v1.image?rk3s=7f9e702d&x-expires=1757993856&x-signature=pGqCYa6xwI%2FPcP%2FirjAMhnWpAXQ%3D"
+      },
+      {
+        "sectionId": "60943e84-6e42-4f49-b316-c79a66d268b1",
+        "title": "部分 5",
+        "prompt": "为主题“婚礼流程预览”，章节“部分 5”生成一幅配图：主体清晰、场景贴合内容；风格：简洁实用；构图合理（三分法/居中）；光线自然；避免文字水印、过度暴力或敏感元素；输出一行中文描述。",
+        "url": "https://p9-aiop-sign.byteimg.com/tos-cn-i-vuqhorh59i/20250915113752EF0236F281448A159950-5465-0~tplv-vuqhorh59i-image-v1.image?rk3s=7f9e702d&x-expires=1757993872&x-signature=eF03ssAkefE8PwDhI3%2F5UkbpuM8%3D"
+      }
+    ],
+    "provider": "jimeng",
+    "info": "使用 jimeng（凭据来自设置页，串行并发=1）"
+  }
+}
