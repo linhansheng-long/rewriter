@@ -1,0 +1,149 @@
+{
+  "stage": "02_outline-multi",
+  "when": "2025-09-15T02:03:44.894Z",
+  "payload": {
+    "outlines": [
+      {
+        "title": "演示“图片生成”阶段不回退占位图",
+        "sections": [
+          {
+            "id": "00828699-de0b-4f55-be46-e489cf963b74",
+            "title": "部分 1",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "e21aa212-c485-41ed-858d-fa9d970fd2ca",
+            "title": "部分 2",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "f48acca6-6455-4194-b9d7-919ca7209e61",
+            "title": "部分 3",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "d5520be3-7ef5-4390-a028-046594518237",
+            "title": "部分 4",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "b8516957-6621-4368-b6e3-c6abb30d6d82",
+            "title": "部分 5",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "演示“图片生成”阶段不回退占位图",
+        "sections": [
+          {
+            "id": "14635326-fa55-405b-a2dc-9af09611bf6f",
+            "title": "部分 1",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "6a9e7379-dc90-4ac9-9c47-4c41d68df1b2",
+            "title": "部分 2",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "82bfb56e-9849-49f4-8bb5-0b638b63bb30",
+            "title": "部分 3",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "def74f51-dad2-4a25-890c-8ee7b56ee5db",
+            "title": "部分 4",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "41762ad8-9681-4321-a8c9-6830e0666411",
+            "title": "部分 5",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "演示“图片生成”阶段不回退占位图",
+        "sections": [
+          {
+            "id": "bf9e4c79-2d79-4b21-af54-ec1f012d43fa",
+            "title": "部分 1",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "67db98cf-e0bf-4846-acad-f7abbd4d1d07",
+            "title": "部分 2",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "32593f1c-6877-410c-860a-b457073d3a45",
+            "title": "部分 3",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "f393a16e-ca0c-4d29-80b5-327ede102a66",
+            "title": "部分 4",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "eb6f67cf-e807-4fe5-b153-52a091ec636c",
+            "title": "部分 5",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          }
+        ]
+      }
+    ],
+    "prompt": "你是写作大纲专家。请针对“{topic}”生成结构化大纲，考虑受众“{audience}”、风格“{style}”。输出JSON：{ title, sections: [{ id, title, bullets[], requiresEvidence? }] }。",
+    "providers": [
+      "kimi",
+      "qwen",
+      "glm"
+    ]
+  }
+}
