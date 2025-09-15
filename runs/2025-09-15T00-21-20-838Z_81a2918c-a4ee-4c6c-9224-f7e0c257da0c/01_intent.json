@@ -1,0 +1,15 @@
+{
+  "stage": "01_intent",
+  "when": "2025-09-15T00:21:20.838Z",
+  "payload": {
+    "intent": {
+      "topic": "测试就绪",
+      "audience": "dev"
+    },
+    "files": [],
+    "prompt": "你是写作意图评估助手。请依据以下信息提炼结构化意图（JSON）：\n- 主题: {topic}\n- 受众: {audience}\n- 风格: {style}\n- 目标: {goals}\n- 约束: {constraints}\n- 参考: {references}\n要求：输出字段 intent: { topic, audience, style, goals[], constraints[], references[] }。",
+    "providers": [
+      "kimi"
+    ]
+  }
+}
