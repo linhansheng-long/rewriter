@@ -1,0 +1,55 @@
+{
+  "stage": "03_outline-merge",
+  "when": "2025-09-15T03:53:37.719Z",
+  "payload": {
+    "outline": {
+      "title": "婚礼梦幻",
+      "sections": [
+        {
+          "id": "48391eec-156b-4173-8e30-52211240bc6f",
+          "title": "部分 1",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        },
+        {
+          "id": "b8504590-dd92-4d96-968e-c77b6f5205a0",
+          "title": "部分 2",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        },
+        {
+          "id": "55333fce-4775-4ea2-b7c2-0327879dfc4f",
+          "title": "部分 3",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        },
+        {
+          "id": "ec8aca6a-ff7e-4caa-8cf5-8072a91235ce",
+          "title": "部分 4",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        },
+        {
+          "id": "0f5b856b-28d8-4893-9e13-10e5fa848413",
+          "title": "部分 5",
+          "bullets": [
+            "要点A",
+            "要点B"
+          ]
+        }
+      ]
+    },
+    "prompt": "你是大纲合并器。输入多份大纲，去重合并，保持层次清晰与覆盖全面，输出JSON同前，最多 8 个章节。",
+    "providers": [
+      "qwen"
+    ]
+  }
+}
