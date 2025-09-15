@@ -1,0 +1,149 @@
+{
+  "stage": "02_outline-multi",
+  "when": "2025-09-15T03:35:38.802Z",
+  "payload": {
+    "outlines": [
+      {
+        "title": "婚礼流程预览",
+        "sections": [
+          {
+            "id": "81fa181e-4f7d-4cd7-a286-5ff62fd1efa9",
+            "title": "部分 1",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "0ac20487-dd28-4233-a55e-32219b59a055",
+            "title": "部分 2",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "042b8645-f77a-4593-aa93-85673ec7c680",
+            "title": "部分 3",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "9b3ed7d2-c82b-4e7e-a64e-c76c502f4099",
+            "title": "部分 4",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "60943e84-6e42-4f49-b316-c79a66d268b1",
+            "title": "部分 5",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "婚礼流程预览",
+        "sections": [
+          {
+            "id": "727eca79-f722-46ef-8c01-513005212305",
+            "title": "部分 1",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "6a11a522-cd3b-46fa-9c45-60ba121182e8",
+            "title": "部分 2",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "df32003b-0a90-49f7-9383-74c40036e91b",
+            "title": "部分 3",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "0ea60633-ea6f-4e4d-9654-c61efc03fa9b",
+            "title": "部分 4",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "1eb85816-191c-4a24-9ceb-4d0778d06c7c",
+            "title": "部分 5",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "婚礼流程预览",
+        "sections": [
+          {
+            "id": "c69e09ef-a267-45b9-a9c9-cca730107d0b",
+            "title": "部分 1",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "24c7d345-938c-433d-a0c4-f78a376436c3",
+            "title": "部分 2",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "1d81e9c9-4cc3-44a7-8d38-bb2263688344",
+            "title": "部分 3",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "b470f027-376f-429e-b823-c2717653bf55",
+            "title": "部分 4",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          },
+          {
+            "id": "653b31af-101b-4991-b914-f473d8c2aa14",
+            "title": "部分 5",
+            "bullets": [
+              "要点A",
+              "要点B"
+            ]
+          }
+        ]
+      }
+    ],
+    "prompt": "你是写作大纲专家。请针对“{topic}”生成结构化大纲，考虑受众“{audience}”、风格“{style}”。输出JSON：{ title, sections: [{ id, title, bullets[], requiresEvidence? }] }。",
+    "providers": [
+      "kimi",
+      "qwen",
+      "glm"
+    ]
+  }
+}
